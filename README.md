@@ -14,4 +14,4 @@ Using the ILPD Dataset (Indian Liver Patient Dataset), which has 583 observation
 binary class variable with 1 for "patient" and 2 for "non-patient". One task was to process this data, cluster it with different type of 
 clustering algorithms and check if there might exist a subtype of the disease within the sick patients. 
 
-Furthermore, the data was also used to train different classification algorithms, resulting in different results. 
+Furthermore, the data was also used to train different classification algorithms, with various success.
